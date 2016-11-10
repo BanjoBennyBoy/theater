@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/01%20you%20wish%20to%20go%20the%20festival.wma</location>
+			<title>01 you wish to go to the festival</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>56377</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/02%20LRRH%20fills%20the%20basket.wma</location>
+			<title>02 LRRH fills the basket</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>79737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/03%20jack%20and%20his%20mom.wma</location>
+			<title>03 jack and his mom</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>69752</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/04%20bakers%20and%20witch%20-%20greens.wma</location>
+			<title>04 bakers and witch - greens</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>107276</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/05%20bakers%20andwitch%20-%20beans.wma</location>
+			<title>05 bakers and witch - beans</title>
+			<creator>T</creator>
+			<album>Unknown album (9/18/2016 1:43:59 PM)</album>
+			<trackNum>5</trackNum>
+			<annotation>T</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>71981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/06%20bakers%20and%20witch%20-%20break%20the%20curse.wma</location>
+			<title>06 bakes and witch - break the curse</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>6</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>47507</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/07%20cinderella%20and%20stepmom.wma</location>
+			<title>07 cinderella and stepmom</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>7</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>23079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/08%20bakers%20find%20beans%20cinderella%20remembers%20tree%20mom.wma</location>
+			<title>08 bakers find beans cinderella ponders</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>8</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>47136</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/09%20into%20the%20woods.wma</location>
+			<title>09 into the woods</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>9</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>79783</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/10%20cinderella%20with%20her%20mom.wma</location>
+			<title>Track 10</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>10</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>70959</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/11%20hello%20little%20girl%20-%20wolf%20and%20LRRH.wma</location>
+			<title>Track 11</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>11</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>108715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/12%20get%20the%20cape%21%20rapunzel%20and%20bakers%20and%20jack%20enters.wma</location>
+			<title>Track 12</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>12</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>67012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/13%20I%20guess%20this%20is%20goodbye%20old%20friend%20and%20maybe%20theyre%20really%20magic.wma</location>
+			<title>Track 13</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>13</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>101517</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/14%20Rapunzel%20and%20witch%20and%20prince.wma</location>
+			<title>Track 14</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>14</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>80108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/15%20do%20I%20want%20a%20child%20or%20not.wma</location>
+			<title>Track 15</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>15</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>44303</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/16%20I%20know%20things%20now.wma</location>
+			<title>Track 16</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>16</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>100124</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/17%20narrator%20introduces%20jack%20and%20mom.wma</location>
+			<title>Track 17</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>17</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>24241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/18%20prince%20searching%20for%20cinderella.wma</location>
+			<title>Track 18</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>18</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>37197</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/19%20hes%20a%20very%20nice%20prince.wma</location>
+			<title>Track 19</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>19</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>85634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/20%20giants%20in%20the%20sky.wma</location>
+			<title>Track 20</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>20</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>94504</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/21%20fanfare%20as%20the%20two%20princes%20meet.wma</location>
+			<title>Track 21</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>21</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>14721</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/22%20Agony.wma</location>
+			<title>Track 22</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>22</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>119304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/23%20bakers%20wife%20steals%20rapunzels%20hair.wma</location>
+			<title>Track 23</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>23</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>18575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/24%20fanfare%20as%20cinderella%20flees%20again.wma</location>
+			<title>Track 24</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>24</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>23358</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/25%20it%20takes%20two.wma</location>
+			<title>Track 25</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>25</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>133328</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/26%20milky%20white%20keels%20over.wma</location>
+			<title>Track 26</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>26</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>15278</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/27%20baker%20and%20wife%20bury%20milky%20white.wma</location>
+			<title>Track 27</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>27</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>21408</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/28%20witch%20and%20rapunzel%20-%20stay%20with%20me.wma</location>
+			<title>Track 28</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>28</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>134211</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/29%20on%20the%20steps%20of%20the%20palace.wma</location>
+			<title>Track 29</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>29</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>102910</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/30%20feeding%20the%20cow%20unsuccessfully.wma</location>
+			<title>Track 30</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>30</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>35619</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/31%20the%20corn%20works%20and%20the%20father%20dies.wma</location>
+			<title>Track 31</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>31</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>71470</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/32%20witch%20is%20better%20but%20rapunzel%20weeps%20prince%20healed.wma</location>
+			<title>Track 32</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>32</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>75464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/33%20prince%20fooled%20by%20florinda.wma</location>
+			<title>Track 33</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>33</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>36176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/34%20steward%20notices%20the%20blood.wma</location>
+			<title>Track 34</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>34</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>26006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/35%20lucinda%20faintsand%20cinderella%20wins.wma</location>
+			<title>Track 35</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>35</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>28049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/36%20thank%20you%20for%20the%20slipper.wma</location>
+			<title>Track 36</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>36</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>35015</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/37%20ever%20after.wma</location>
+			<title>Track 37</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>37</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>103978</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/38%20careful%20childen%20will%20listen.wma</location>
+			<title>Track 38</title>
+			<creator>Stephen Sondheim</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>38</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%20%5B2002%20Broadway%20Revival%20Cast%5D/Folder.jpg</image>
+			<duration>100402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+	</extension>
+</playlist>

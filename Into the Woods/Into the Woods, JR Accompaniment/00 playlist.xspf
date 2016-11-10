@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/01%20Opening%20Part%20I.wma</location>
+			<title>Opening Part I</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>46997</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/02%20Opening%20Part%20II.wma</location>
+			<title>Opening Part II</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>84334</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/03%20Opening%20Part%20III.wma</location>
+			<title>Opening Part III</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>3</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>75603</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/04%20Opening%20Part%20IV.wma</location>
+			<title>Opening Part IV</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>4</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>99148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/05%20Opening%20Part%20V.wma</location>
+			<title>Opening Part V</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>5</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>77229</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/06%20Opening%20Part%20VI.wma</location>
+			<title>Opening Part VI</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>6</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>51640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/07%20Opening%20Part%20VII.wma</location>
+			<title>Opening Part VII</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>7</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>23033</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/08%20Opening%20Part%20VIII.wma</location>
+			<title>Opening Part VIII</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>8</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>47182</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/09%20Opening%20Part%20IX.wma</location>
+			<title>Opening Part IX</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>9</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>83219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/10%20Cinderella%20at%20the%20Grave.wma</location>
+			<title>Cinderella at the Grave</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>10</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>73838</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/11%20Hello%2C%20Little%20Girl.wma</location>
+			<title>Hello, Little Girl</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>11</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>112569</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/12%20After--Hello%2C%20Little%20Girl.wma</location>
+			<title>After--Hello, Little Girl</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>12</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>54659</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/13%20I%20Guess%20This%20is%20Goodbye-Maybe%20They%27re%20Magic.wma</location>
+			<title>I Guess This is Goodbye/Maybe They&#39;re Magic</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>13</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>101470</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/14%20Rapunzel.wma</location>
+			<title>Rapunzel</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>14</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>80619</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/15%20Baker%27s%20Reprise.wma</location>
+			<title>Baker&#39;s Reprise</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>15</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>34179</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/16%20I%20Know%20Things%20Now.wma</location>
+			<title>I Know Things Now</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>16</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>102632</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/17%20Jack%27s%20Mother.wma</location>
+			<title>Jack&#39;s Mother</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>17</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>26238</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/18%20Cinderella%20Coming%20From%20The%20Ball.wma</location>
+			<title>Cinderella Coming From The Ball</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>18</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>33157</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/19%20A%20Very%20Nice%20Prince.wma</location>
+			<title>A Very Nice Prince</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>19</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>74257</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/20%20Giants%20In%20The%20Sky.wma</location>
+			<title>Giants In The Sky</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>20</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>97755</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/21%20Fanfares.wma</location>
+			<title>Fanfares</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>21</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>17461</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/22%20Agony.wma</location>
+			<title>Agony</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>22</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>114427</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/23%20Rapunzel%20%28Reprise%29.wma</location>
+			<title>Rapunzel (Reprise)</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>23</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>24752</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/24%20Underscore.wma</location>
+			<title>Underscore</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>24</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>20108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/25%20It%20Takes%20Two.wma</location>
+			<title>It Takes Two</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>25</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>124458</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/27%20Underscore.wma</location>
+			<title>Underscore</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>27</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>24287</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/28%20Stay%20With%20Me.wma</location>
+			<title>Stay With Me</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>28</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>136346</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/26%20Cow%20Death.wma</location>
+			<title>Cow Death</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>26</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>15324</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/29%20On%20The%20Steps%20of%20the%20Palace.wma</location>
+			<title>On The Steps of the Palace</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>29</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>101191</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/30%20The%20Potion%20Part%20I.wma</location>
+			<title>The Potion Part I</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>30</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>34179</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/31%20The%20Potion%20Part%20II.wma</location>
+			<title>The Potion Part II</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>31</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>69287</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/32%20Finale%20Part%20I.wma</location>
+			<title>Finale Part I</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>32</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>77693</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/33%20Finale%20Part%20II.wma</location>
+			<title>Finale Part II</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>33</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>39008</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/35%20Finale%20Part%20IV.wma</location>
+			<title>Finale Part IV</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>35</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>33343</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/34%20Finale%20Part%20III.wma</location>
+			<title>Finale Part III</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>34</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>26284</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/36%20Finale%20Part%20V.wma</location>
+			<title>Finale Part V</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>36</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>25634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/37%20Finale%20Part%20VI.wma</location>
+			<title>Finale Part VI</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>37</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>105603</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/Into%20the%20Woods%2C%20JR%20Accompaniment/38%20Curtain%20Music.wma</location>
+			<title>Curtain Music</title>
+			<creator>Instrumental</creator>
+			<album>Into the Woods, JR Accompaniment</album>
+			<trackNum>38</trackNum>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Instrumental/Into%20the%20Woods%2C%20JR%20Accompaniment/art</image>
+			<duration>100681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+	</extension>
+</playlist>
