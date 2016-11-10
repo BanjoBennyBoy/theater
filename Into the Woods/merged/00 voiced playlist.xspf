@@ -212,7 +212,7 @@
 		</track>
 		<track>
 			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/17%20narrator%20introduces%20jack%20and%20mom.wma</location>
-			<title>17 narrator  jack and mom</title>
+			<title>17 narratorbaker leaves as for the lad  jack</title>
 			<creator>1</creator>
 			<album>Into the Woods [2002 Broadway Revival Cast]</album>
 			<trackNum>17</trackNum>
@@ -512,8 +512,10 @@
 		<track>
 			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/38%20careful%20childen%20will%20listen.wma</location>
 			<title>38 children will listen (curtain)</title>
+			<creator>3</creator>
 			<album>Into the Woods [2002 Broadway Revival Cast]</album>
 			<trackNum>38</trackNum>
+			<annotation>3</annotation>
 			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
 			<duration>100402</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
