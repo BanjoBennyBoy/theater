@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/01%20you%20wish%20to%20go%20the%20festival.wma</location>
+			<title>01 you wish to go to the festival</title>
+			<creator>0</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>56377</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/02%20LRRH%20fills%20the%20basket.wma</location>
+			<title>02  LRRH fills the basket</title>
+			<creator>0</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>2</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>79737</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/03%20jack%20and%20his%20mom.wma</location>
+			<title>03 - jack and his mom</title>
+			<creator>0</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>3</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>69752</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/04%20bakers%20and%20witch%20-%20greens.wma</location>
+			<title>04 bakers and witch - greens</title>
+			<creator>0</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>4</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>107276</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/05%20bakers%20andwitch%20-%20beans.wma</location>
+			<title>05 - bakers and witch - beans</title>
+			<creator>0</creator>
+			<album>Unknown album (9/18/2016 1:43:59 PM)</album>
+			<trackNum>5</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>71981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/06%20bakers%20and%20witch%20-%20break%20the%20curse.wma</location>
+			<title>06 bakers and witch - break the curse</title>
+			<creator>0</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>6</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>47507</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/07%20cinderella%20and%20stepmom.wma</location>
+			<title>07 cinderella and stepmom</title>
+			<creator>0</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>7</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>23079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/08%20bakers%20find%20beans%20cinderella%20remembers%20tree%20mom.wma</location>
+			<title>08 bakers find beans while cindy remembers her mom</title>
+			<creator>0</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>8</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>47136</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/09%20into%20the%20woods.wma</location>
+			<title>09 into the woods</title>
+			<creator>0</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>9</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>79783</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/10%20cinderella%20with%20her%20mom.wma</location>
+			<title>10 cinderella with her mom</title>
+			<creator>1</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>10</trackNum>
+			<annotation>1</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>70959</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/11%20hello%20little%20girl%20-%20wolf%20and%20LRRH.wma</location>
+			<title>11 hello little girl - wolf and LRRH</title>
+			<creator>1</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>11</trackNum>
+			<annotation>1</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>108715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/12%20get%20the%20cape%21%20rapunzel%20and%20bakers%20and%20jack%20enters.wma</location>
+			<title>12 get the cape! rapunzel and bakers and jack</title>
+			<creator>1</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>12</trackNum>
+			<annotation>1</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>67012</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/13%20I%20guess%20this%20is%20goodbye%20old%20friend%20and%20maybe%20theyre%20really%20magic.wma</location>
+			<title>13 i guess this is goodbye and maybe they&#39;re really magic</title>
+			<creator>1</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>13</trackNum>
+			<annotation>1</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>101517</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/14%20Rapunzel%20and%20witch%20and%20prince.wma</location>
+			<title>14 rapunzel and witch and prince</title>
+			<creator>1</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>14</trackNum>
+			<annotation>1</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>80108</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/15%20do%20I%20want%20a%20child%20or%20not.wma</location>
+			<title>15 bakers reprise - do I want a child or not</title>
+			<creator>1</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>15</trackNum>
+			<annotation>1</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>44303</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/16%20I%20know%20things%20now.wma</location>
+			<title>16 I know things now LRRH</title>
+			<creator>1</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>16</trackNum>
+			<annotation>1</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>100124</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/17%20narrator%20introduces%20jack%20and%20mom.wma</location>
+			<title>17 narrator  jack and mom</title>
+			<creator>1</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>17</trackNum>
+			<annotation>1</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>24241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/18%20prince%20searching%20for%20cinderella.wma</location>
+			<title>18 prince searching for cinderella</title>
+			<creator>1</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>18</trackNum>
+			<annotation>1</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>37197</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/19%20hes%20a%20very%20nice%20prince.wma</location>
+			<title>19 he&#39;s a very nice prince - cinderella and baker&#39;s wife</title>
+			<creator>1</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>19</trackNum>
+			<annotation>1</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>85634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/20%20giants%20in%20the%20sky.wma</location>
+			<title>20 giants in the sky</title>
+			<creator>2</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>20</trackNum>
+			<annotation>2</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>94504</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/21%20fanfare%20as%20the%20two%20princes%20meet.wma</location>
+			<title>21 fanfare before the two princes meet</title>
+			<creator>2</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>21</trackNum>
+			<annotation>2</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>14721</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/22%20Agony%20Broadway.mp3</location>
+			<title>22 broadway Agony</title>
+			<creator>Robert Westenberg;Chuck Wagner</creator>
+			<album>Into The Woods</album>
+			<trackNum>7</trackNum>
+			<annotation>Amazon.com Song ID: 204392372</annotation>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Robert%20Westenberg%3BChuck%20Wagner/Into%20The%20Woods/art.jpg</image>
+			<duration>146577</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/22%20Agony%20%28Reprise%29%20Broadway.mp3</location>
+			<title>22 broadway Agony (Reprise)</title>
+			<creator>Robert Westenberg;Chuck Wagner</creator>
+			<album>Into The Woods</album>
+			<trackNum>13</trackNum>
+			<annotation>Amazon.com Song ID: 204392360</annotation>
+			<image>file:///C:/Users/ben/AppData/Roaming/vlc/art/artistalbum/Robert%20Westenberg%3BChuck%20Wagner/Into%20The%20Woods/art.jpg</image>
+			<duration>136075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/22%20Agony.wma</location>
+			<title>22 agony (short)</title>
+			<creator>2</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>22</trackNum>
+			<annotation>2</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>119304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/23%20rapunzel%20sings.wma</location>
+			<title>23 rapunzel sings</title>
+			<creator>2</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>23</trackNum>
+			<annotation>2</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>18575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/24%20fanfare%20as%20cinderella%20flees%20again.wma</location>
+			<title>24 bakers wife steals the hair</title>
+			<creator>2</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>24</trackNum>
+			<annotation>2</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>23358</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/25%20it%20takes%20two.wma</location>
+			<title>25 it takes two</title>
+			<creator>2</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>25</trackNum>
+			<annotation>2</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>133328</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/26%20milky%20white%20keels%20over.wma</location>
+			<title>26 mikly white keels over</title>
+			<creator>2</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>26</trackNum>
+			<annotation>2</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>15278</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/27%20baker%20and%20wife%20bury%20milky%20white.wma</location>
+			<title>27 baker and wife bury milky whte</title>
+			<creator>2</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>27</trackNum>
+			<annotation>2</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>21408</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/28%20witch%20and%20rapunzel%20-%20stay%20with%20me.wma</location>
+			<title>28 witch and rapunzel - stay with me</title>
+			<creator>2</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>28</trackNum>
+			<annotation>2</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>134211</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/29%20on%20the%20steps%20of%20the%20palace.wma</location>
+			<title>29 on the steps of the palace</title>
+			<creator>2</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>29</trackNum>
+			<annotation>2</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>102910</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/30%20feeding%20the%20cow%20unsuccessfully.wma</location>
+			<title>30 feednig the cow unsuccessfully</title>
+			<creator>3</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>30</trackNum>
+			<annotation>3</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>35619</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/31%20the%20corn%20works%20and%20the%20father%20dies.wma</location>
+			<title>31 the corn works and the father dies</title>
+			<creator>3</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>31</trackNum>
+			<annotation>3</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>71470</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/32%20witch%20is%20better%20but%20rapunzel%20weeps%20prince%20healed.wma</location>
+			<title>32 hot witch rapunzel weeps prince heals</title>
+			<creator>3</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>32</trackNum>
+			<annotation>3</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>75464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/33%20prince%20fooled%20by%20florinda.wma</location>
+			<title>33 prince fooled by florinda</title>
+			<creator>3</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>33</trackNum>
+			<annotation>3</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>36176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/34%20steward%20notices%20the%20blood.wma</location>
+			<title>34 steward sees the blood</title>
+			<creator>3</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>34</trackNum>
+			<annotation>3</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>26006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/35%20lucinda%20faintsand%20cinderella%20wins.wma</location>
+			<title>35 lucinda loses a heel</title>
+			<creator>3</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>35</trackNum>
+			<annotation>3</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>28049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/36%20thank%20you%20for%20the%20slipper.wma</location>
+			<title>36 nope. cindy wins. thank you for the slipper</title>
+			<creator>3</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>36</trackNum>
+			<annotation>3</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>35015</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/37%20ever%20after.wma</location>
+			<title>37 ever after (closing)</title>
+			<creator>3</creator>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>37</trackNum>
+			<annotation>3</annotation>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>103978</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/38%20careful%20childen%20will%20listen.wma</location>
+			<title>38 children will listen (curtain)</title>
+			<album>Into the Woods [2002 Broadway Revival Cast]</album>
+			<trackNum>38</trackNum>
+			<image>file:///C:/cygwin64/home/ben/git/theater/Into%20the%20Woods/merged/Folder.jpg</image>
+			<duration>100402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+	</extension>
+</playlist>
